@@ -7,3 +7,4 @@ A collection of PowerShell scripts I have created over time during my developmen
 | Name of the Script | Description |
 | ------------------ | ----------- |
 | PS_Query_Installed_Applicaitons.ps1 | Query all the installed applications on a Windows systems. |
+| PS_Query_USB_Devices.ps1 | Query USB devices. |
